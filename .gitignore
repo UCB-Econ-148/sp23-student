@@ -25,3 +25,6 @@ venv.bak/
 # Ignore all OSX hidden files
 *.DS_Store
 /bin/
+
+# Ignore otter log
+.OTTER_LOG
